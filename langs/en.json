@@ -1,7 +1,7 @@
 {
   "account-mapper.info-fields.beneficiary-account": {
     "other": "Beneficiary Account",
-    "description": "Beneficiary Account"
+    "description": "Beneficiary Account."
   },
   "account-mapper.info-fields.beneficiary-name": {
     "other": "Beneficiary Name",

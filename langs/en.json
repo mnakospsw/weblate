@@ -1,0 +1,30 @@
+{
+  "account-mapper.info-fields.beneficiary-account": {
+    "other": "Beneficiary Account",
+    "description": "Beneficiary Account"
+  },
+  "account-mapper.info-fields.beneficiary-name": {
+    "other": "Beneficiary Name",
+    "description": "Beneficiary Name"
+  },
+  "account-mapper.info-fields.reference-number": {
+    "other": "Reference Number",
+    "description": "Reference Number"
+  },
+  "account-mapper.info-fields.running-balance": {
+    "other": "Running Balance",
+    "description": "Running Balance"
+  },
+  "account-mapper.info-fields.transaction-account": {
+    "other": "Transaction Account",
+    "description": "Transaction Account"
+  },
+  "account-mapper.info-fields.transaction-amount": {
+    "other": "Transaction Amount",
+    "description": "Transaction Amount"
+  },
+  "account-mapper.info-fields.transaction-date": {
+    "other": "Transaction Date",
+    "description": "Transaction Date"
+  },
+}

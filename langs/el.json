@@ -22,9 +22,5 @@
   "account-mapper.info-fields.transaction-amount": {
     "other": "Ποσό Συναλλαγής",
     "description": "Transaction Amount"
-  },
-  "account-mapper.info-fields.transaction-date": {
-    "other": "Ημερ/νία Συναλλαγής",
-    "description": "Transaction Date"
   }
 }

@@ -22,9 +22,5 @@
   "account-mapper.info-fields.transaction-amount": {
     "other": "Transaction Amount",
     "description": "Transaction Amount"
-  },
-  "account-mapper.info-fields.transaction-date": {
-    "other": "Transaction Date",
-    "description": "Transaction Date"
   }
 }

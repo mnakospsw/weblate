@@ -2619,6 +2619,7 @@
     "description": "Proceed with signing",
     "other": "Συνεχίστε με την υπογραφή"
   },
+  "application-details.proceed-with-sign.title": "Προχωρήστε με υπογραφή",
   "application-details.reject": {
     "description": "Reject",
     "other": "Απορρίπτω"
@@ -2879,6 +2880,8 @@
     "description": "Λήψη Μεταφράσεων",
     "other": "Λήψη Μεταφράσεων"
   },
+  "backoffice-forgot-username.email-verification": "Παρακαλώ εισάγετε το email που σχετίζεται με τον λογαριασμό σας και θα σας στείλουμε το όνομα χρήστη σε αυτή τη διεύθυνση.",
+  "backoffice-user-account.change-password.disclaimer": "Ο κωδικός θα πρέπει να έχει μήκος μεταξύ 8-15 χαρακτήρες, να περιέχει τουλάχιστον έναν κεφαλαίο γράμμα, ένα μικρό, έναν αριθμο και τουλάχιστον έναν ειδικό χαρακτήρα από τους παρακάτω (!@#$%^&*(){}[]?|/;:'\\\"><+=._-). Δε θα πρέπει να είναι ίδιος όπως το όνομα χρήστη.",
   "backoffice-user.force-change-password": {
     "description": "Υποχρεωτική αλλαγή κωδικού κατά την πρώτη σύνδεση",
     "other": "Υποχρεωτική αλλαγή κωδικού κατά την πρώτη σύνδεση"

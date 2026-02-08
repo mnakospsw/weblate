@@ -1,206 +1,102 @@
 {
-  "accounts.accounts-dashboard.account-type-error.subtitle": {
-    "other": "There was an error. Please try again later",
-    "description": "There was an error. Please try again later"
+  "accounts.new-account-details.starting-from": {
+    "other": "Starting from",
+    "description": "Starting from"
   },
-  "accounts.accounts-dashboard.account-type-error.title": {
-    "other": "Oops!",
-    "description": "Oops!"
+  "accounts.new-account-details.subtitle": {
+    "other": "Housing plan",
+    "description": "Housing plan"
   },
-  "accounts.accounts-dashboard.balance": {
-    "other": "Available Balance",
-    "description": "Available Balance"
+  "accounts.new-account-details.there-may-also-interest-you": {
+    "other": "THERE MAY ALSO INTEREST YOU",
+    "description": "THERE MAY ALSO INTEREST YOU"
   },
-  "accounts.accounts-dashboard.fab-text": {
-    "other": "NEW ACCOUNT",
-    "description": "NEW ACCOUNT"
+  "accounts.new-account-details.title": {
+    "other": "First residence",
+    "description": "First residence"
   },
-  "accounts.accounts-dashboard.fab-text-desktop": {
-    "other": "VIEW ALL OUR PRODUCTS",
-    "description": "VIEW ALL OUR PRODUCTS"
+  "accounts.new-account-details.why-choose-it": {
+    "other": "Why choose it",
+    "description": "Why choose it"
   },
-  "accounts.accounts-dashboard.loan-application": {
-    "other": "Application",
-    "description": "Loan Application"
+  "accounts.new-account-details.years": {
+    "other": "years",
+    "description": "years"
   },
-  "accounts.accounts-dashboard.outstanding-balance": {
-    "other": "Outstanding Balance",
-    "description": "Outstanding Balance"
+  "accounts.new-account.all": {
+    "other": "ALL",
+    "description": "ALL"
   },
-  "accounts.accounts-dashboard.status": {
-    "other": "Status",
-    "description": "Status"
+  "accounts.new-account.button": {
+    "other": "NEW PRODUCT",
+    "description": "NEW PRODUCT"
   },
-  "accounts.accounts-dashboard.subtitle": {
-    "other": "At a glance",
-    "description": "All your accounts at a glance"
+  "accounts.new-account.cards": {
+    "other": "Cards",
+    "description": "Cards"
   },
-  "accounts.accounts-dashboard.title": {
-    "other": "Portfolio",
-    "description": "Portfolio"
+  "accounts.new-account.current-accounts": {
+    "other": "Current Accounts",
+    "description": "Current Accounts"
   },
-  "accounts.accounts-dashboard.type.credit-cards": {
-    "other": "CARDS",
-    "description": "CARDS"
+  "accounts.new-account.deposit-quarantee-scheme": {
+    "other": "Deposit Guarantee scheme",
+    "description": "Deposit Guarantee scheme"
   },
-  "accounts.accounts-dashboard.type.current-accounts": {
-    "other": "CURRENT ACCOUNTS",
-    "description": "CURRENT ACCOUNTS"
+  "accounts.new-account.exclusive-loyalty-program": {
+    "other": "With an exclusive loyalty program",
+    "description": "With an exclusive loyalty program"
   },
-  "accounts.accounts-dashboard.type.loans": {
-    "other": "LOANS",
-    "description": "LOANS"
+  "accounts.new-account.get-flexibility": {
+    "other": "Get flexibility and better returns",
+    "description": "Get flexibility and better returns"
   },
-  "accounts.accounts-dashboard.type.no-products-description": {
-    "other": "There are no available products",
-    "description": "There are no available products"
+  "accounts.new-account.get-it-now": {
+    "other": "Get it now, pay it after 10 years.",
+    "description": "Get it now, pay it after 10 years."
   },
-  "accounts.accounts-dashboard.type.no-products-title": {
-    "other": "No products",
-    "description": "No products"
+  "accounts.new-account.limited-offer": {
+    "other": "Limited offer",
+    "description": "Limited offer"
   },
-  "accounts.accounts-dashboard.type.savings": {
-    "other": "SAVINGS",
-    "description": "SAVINGS"
+  "accounts.new-account.loans": {
+    "other": "Loans",
+    "description": "Loans"
   },
-  "accounts.accounts-dashboard.type.term-deposits": {
-    "other": "TIME DEPOSITS",
-    "description": "TIME DEPOSITS"
+  "accounts.new-account.mastercard-classic": {
+    "other": "Mastercard Classic",
+    "description": "Mastercard Classic"
   },
-  "accounts.change-nickname": {
-    "other": "Change Nickname",
-    "description": "Change Nickname"
+  "accounts.new-account.popular": {
+    "other": "POPULAR",
+    "description": "POPULAR"
   },
-  "accounts.change-nickname.error-whitespace": {
-    "other": "Please fill in a valid nickname",
-    "description": "Please fill in a valid nickname"
+  "accounts.new-account.prime-savings-account": {
+    "other": "Prime Savings Account",
+    "description": "Prime Savings Account"
   },
-  "accounts.change-nickname.input-titme": {
-    "other": "My Nickname",
-    "description": "My Nickname"
+  "accounts.new-account.protected-up-to": {
+    "other": "Protected up to 100K per saver",
+    "description": "Protected up to 100K per saver"
   },
-  "accounts.change-nickname.max-length-validation": {
-    "other": "Your nickname must be up to 40 characters",
-    "description": "Your nickname must be up to 40 characters"
+  "accounts.new-account.savings-accounts": {
+    "other": "Savings Accounts",
+    "description": "Savings Accounts"
   },
-  "accounts.change-nickname.title-new": {
-    "other": "Set a nickname",
-    "description": "Set a nickname"
+  "accounts.new-account.studen-account-descr": {
+    "other": "The ideal choice for your studies",
+    "description": "The ideal choice for your studies"
   },
-  "accounts.change-nickname.title-update": {
-    "other": "Change nickname",
-    "description": "Change nickname"
+  "accounts.new-account.student-account": {
+    "other": "Student Account",
+    "description": "Student Account"
   },
-  "accounts.menu.block-card": {
-    "other": "Block Card",
-    "description": "Block Card"
+  "accounts.new-account.student-loan": {
+    "other": "Student Loan",
+    "description": "Student Loan"
   },
-  "accounts.menu.copy-card-number": {
-    "other": "Copy Card Number",
-    "description": "Copy Card Number"
-  },
-  "accounts.menu.copy-iban": {
-    "other": "Copy IBAN",
-    "description": "Copy IBAN"
-  },
-  "accounts.menu.pin-and-security": {
-    "other": "PIN & Security",
-    "description": "PIN & Security"
-  },
-  "accounts.menu.set-a-nickname": {
-    "other": "Set a Nickname",
-    "description": "Set a Nickname"
-  },
-  "accounts.menu.share-card-number": {
-    "other": "Share Card Number",
-    "description": "Share Card Number"
-  },
-  "accounts.menu.share-iban": {
-    "other": "Share IBAN",
-    "description": "Share IBAN"
-  },
-  "accounts.menu.unblock-card": {
-    "other": "Unblock Card",
-    "description": "Unblock Card"
-  },
-  "accounts.new-account-details.benefits": {
-    "other": "Benefits",
-    "description": "Benefits"
-  },
-  "accounts.new-account-details.check-book-available": {
-    "other": "Cheque book available",
-    "description": "Cheque book available"
-  },
-  "accounts.new-account-details.cyprus-permanent": {
-    "other": "Cyprus permanent residents between the ages 25-65",
-    "description": "Cyprus permanent residents between the ages 25-65"
-  },
-  "accounts.new-account-details.description": {
-    "other": "Low interest rates and no fees in the event of early repayment",
-    "description": "Low interest rates and no fees in the event of early repayment"
-  },
-  "accounts.new-account-details.eligibility": {
-    "other": "Eligibility",
-    "description": "Eligibility"
-  },
-  "accounts.new-account-details.eligible": {
-    "other": "ELIGIBLE FOR",
-    "description": "ELIGIBLE FOR"
-  },
-  "accounts.new-account-details.flexibility-on-saving": {
-    "other": "Flexibility on saving",
-    "description": "Flexibility on saving"
-  },
-  "accounts.new-account-details.info": {
-    "other": "Info",
-    "description": "Info"
-  },
-  "accounts.new-account-details.initial-bank-fees": {
-    "other": "Initial bank fees",
-    "description": "Initial bank fees"
-  },
-  "accounts.new-account-details.insurance-discount": {
-    "other": "Insurance discount",
-    "description": "Insurance discount"
-  },
-  "accounts.new-account-details.interest-rate": {
-    "other": "Interest rate",
-    "description": "Interest rate"
-  },
-  "accounts.new-account-details.interested": {
-    "other": "I WANT THIS",
-    "description": "I WANT THIS"
-  },
-  "accounts.new-account-details.it-will-give-you-a-home": {
-    "other": "It will give you a home",
-    "description": "It will give you a home"
-  },
-  "accounts.new-account-details.loan-duration": {
-    "other": "Loan duration",
-    "description": "Loan duration"
-  },
-  "accounts.new-account-details.low-interest-rate": {
-    "other": "Low interest rate",
-    "description": "Low interest rate"
-  },
-  "accounts.new-account-details.lower-insurance-rates": {
-    "other": "lower insurance rates",
-    "description": "lower insurance rates"
-  },
-  "accounts.new-account-details.minimum-loan": {
-    "other": "Minimum loan",
-    "description": "Minimum loan"
-  },
-  "accounts.new-account-details.physical-person": {
-    "other": "Physical person",
-    "description": "Physical person"
-  },
-  "accounts.new-account-details.required-collaterals": {
-    "other": "Required collaterals",
-    "description": "Required collaterals"
-  },
-  "accounts.new-account-details.semi-annually-payment": {
-    "other": "Semi-annually payment",
-    "description": "Semi-annually payment"
+  "accounts.new-account.subtitle": {
+    "other": "Choose the right one for you",
+    "description": "Choose the right one for you"
   }
 }

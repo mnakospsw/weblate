@@ -1,26 +1,27 @@
 {
   "account-mapper.info-fields.beneficiary-account": {
-    "other": "Λογαριασμός δικαιούχου",
-    "description": "Beneficiary Account"
+    "description": "Beneficiary Account",
+    "other": "Λογαριασμός δικαιούχου"
   },
   "account-mapper.info-fields.beneficiary-name": {
-    "other": "Όνομα δικαιούχου",
-    "description": "Beneficiary Name"
+    "description": "Beneficiary Name",
+    "other": "Όνομα δικαιούχου"
   },
   "account-mapper.info-fields.reference-number": {
-    "other": "Αριθμός αναφοράς",
-    "description": "Reference Number"
+    "description": "Reference Number",
+    "other": "Αριθμός αναφοράς"
   },
   "account-mapper.info-fields.running-balance": {
-    "other": "Τρέχον Υπόλοιπο",
-    "description": "Running Balance"
+    "description": "Running Balance",
+    "other": "Τρέχον Υπόλοιπο"
   },
   "account-mapper.info-fields.transaction-account": {
-    "other": "Λογαριασμός συναλλαγής",
-    "description": "Transaction Account"
+    "description": "Transaction Account",
+    "other": "Λογαριασμός συναλλαγής"
   },
   "account-mapper.info-fields.transaction-amount": {
-    "other": "Ποσό Συναλλαγής",
-    "description": "Transaction Amount"
-  }
+    "description": "Transaction Amount",
+    "other": "Ποσό Συναλλαγής"
+  },
+  "account-mapper.info-fields.transaction-date": "Ημερομηνία συναλλαγής"
 }

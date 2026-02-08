@@ -25,7 +25,7 @@
   },
   "account-mapper.info-fields.transaction-date": "Transaction date",
   "mike.test.key1": {
-    "other": "For testing purposes 1",
-    "description": "explanation for test.key1"
+    "description": "explanation for test.key1",
+    "other": "For testing purposes (1)"
   }
 }

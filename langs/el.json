@@ -13242,6 +13242,8 @@
     "description": "messages.product-selection.select-productType-prompt",
     "other": "Επιλέξτε ένα προϊόν για να συνεχίσετε."
   },
+  "mike.test1": "Η δοκιμή μου 1",
+  "mike.test2": "Η δοκιμή μου 2",
   "months.apr": {
     "description": "April",
     "other": "Απρ"

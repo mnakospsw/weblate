@@ -1,0 +1,10 @@
+{
+  "account-mapper.info-fields.beneficiary-account": {
+    "message": "Beneficiary Account",
+    "description": "Beneficiary Account"
+  },
+  "account-mapper.info-fields.beneficiary-name": {
+    "message": "Beneficiary Name",
+    "description": "Beneficiary Name"
+  }
+}

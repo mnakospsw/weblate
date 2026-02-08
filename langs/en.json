@@ -13331,6 +13331,7 @@
     "description": "messages.product-selection.select-productType-prompt",
     "other": "Please select a product in order to continue."
   },
+  "mike.test1": "My test 1",
   "months.apr": {
     "description": "April",
     "other": "Apr"

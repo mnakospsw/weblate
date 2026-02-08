@@ -98,5 +98,9 @@
   "accounts.qr-code.title": {
     "other": "Scan the QRcode to copy the code",
     "description": "RF code modal title"
+  },
+  "accounts.test1": {
+    "other": null,
+    "description": "accountstest"
   }
 }

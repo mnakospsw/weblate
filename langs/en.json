@@ -23,5 +23,6 @@
     "description": "Transaction Amount",
     "other": "Transaction Amount"
   },
-  "account-mapper.info-fields.transaction-date": "Transaction date"
+  "account-mapper.info-fields.transaction-date": "Transaction date",
+  "mike.test.key1": "For testing purposes 1"
 }

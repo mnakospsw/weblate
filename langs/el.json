@@ -23,5 +23,6 @@
     "description": "Transaction Amount",
     "other": "Ποσό Συναλλαγής"
   },
-  "account-mapper.info-fields.transaction-date": "Ημερομηνία συναλλαγής"
+  "account-mapper.info-fields.transaction-date": "Ημερομηνία συναλλαγής",
+  "mike.test.key1": "Για δοκιμές 1"
 }
